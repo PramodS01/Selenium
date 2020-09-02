@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	Set<Object> s = new HashSet<>();
 	s.add("Ankur");
 	s.add(25);
-	s.add(false);
+	s.add(false);//pubg is banned in whole world
 	s.add(6.3);
 	
 	List<Object> lst = new ArrayList<>(s);
